@@ -31,9 +31,9 @@
 - [ ] 5) 물리 ERD  
 
 ## 🔗 ER 다이어그램 모델링
-![LMS_ERD](https://user-images.githubusercontent.com/91303847/135944989-1ca7fa61-319e-4b62-b0f6-80f4d1dbc21c.png)  
+추후업로드
 
 ## 🔗 프로젝트 문서 산출물 전용 레파지토리 주소
-https://github.com/tjoeunoff/tjoeun_offline_submit.git  
+https://github.com/tjoeunoff/there_submiit.git  
 
 
