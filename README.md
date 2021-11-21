@@ -31,9 +31,7 @@
 - [x] 5) 물리 ERD  
 
 ## 🔗 ER 다이어그램 모델링
-추후업로드
-
-## 🔗 프로젝트 문서 산출물 전용 레파지토리 주소
-https://github.com/tjoeunoff/there_submiit.git  
+URL : https://aquerytool.com/aquerymain/index/?rurl=54e2cfd8-c532-40bf-9811-8745dad34815&
+Password : 72681x
 
 
